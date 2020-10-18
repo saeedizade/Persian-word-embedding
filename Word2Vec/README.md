@@ -1,0 +1,1 @@
+persian w2v
