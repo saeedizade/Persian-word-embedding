@@ -1,4 +1,4 @@
-## 100d persian word embedding
+## 100d persian word embedding based on 2020 persian wikipedia 
 
 ## 1 unzip the files
 
