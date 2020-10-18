@@ -1,6 +1,6 @@
 ## 100d persian word embedding based on 2020 persian wikipedia 
 
-## 1 unzip the files
+## 1 unzip the files from folder
 
 ## 2 example :
 
